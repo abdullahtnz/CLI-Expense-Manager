@@ -10,5 +10,5 @@ An expense manager works in command line with critical features such as adding, 
 **to view SUMMARY of all expenses:** summary<br>
 **to view SUMMARY of all expenses BY MONTH:** summary --month _monthnumber_ <br>
 <br>
-Note: Writing monthnumber, make sure you wrote like how you are writing in an formal and global way. e.g 05, 12, 01... etc.<br>
+Note: Writing month number, make sure you wrote like how you are writing in an formal and global way. e.g 05, 12, 01... etc.<br>
 <br>
