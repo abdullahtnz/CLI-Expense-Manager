@@ -12,3 +12,6 @@ An expense manager works in command line with critical features such as adding, 
 <br>
 Note: Writing month number, make sure you wrote like how you are writing in a formal and global way. e.g 05, 12, 01... etc.<br>
 <br>
+
+# Summer update details:
+AI will be integrated, and GUI will be added. 
